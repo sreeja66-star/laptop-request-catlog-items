@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2025-10-29 05:55:27">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>CB_Laptop Request_2025-10-29 04:38:46</description>
+<inserted/>
+<name>CB_Laptop Request_2025-10-29 04:38:46</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>fbc8d7bec3f47210e8461a2ed401311a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-10-29 05:55:26</sys_created_on>
+<sys_id>7e5aa332c3b87210e8461a2ed40131d2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-10-29 05:55:26</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_category_78c817bec3f47210e8461a2ed40131a2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Laptop Request">f5b6df7ac3f47210e8461a2ed4013155</sc_cat_item><sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-29 04:38:35</sys_created_on><sys_id>78c817bec3f47210e8461a2ed40131a2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Hardware.Laptop Request</sys_name><sys_package/><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_cat_item_category_78c817bec3f47210e8461a2ed40131a2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-29 04:38:35</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+<payload_hash>-1794099070</payload_hash>
+<remote_update_set display_value="CB_Laptop Request_2025-10-29 04:38:46">7e5aa332c3b87210e8461a2ed40131d2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-10-29 05:55:26</sys_created_on>
+<sys_id>3e5a6b32c3b87210e8461a2ed40131f7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a2e42e5510000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-10-29 05:55:26</sys_updated_on>
+<table/>
+<target_name>Hardware.Laptop Request</target_name>
+<type>Catalog Item Category</type>
+<update_domain>global</update_domain>
+<update_guid>b7c8d7be73f47210d07af6788674a94e</update_guid>
+<update_guid_history>b7c8d7be73f47210d07af6788674a94e:-1794099070,33c8d7be54f472108b295011d0b45f4b:-1794099070,3bc8d7be12f47210a7487d86d3fc0432:100875908</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_f5b6df7ac3f47210e8461a2ed4013155</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item"><sc_cat_item action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>true</active><availability>on_desktop</availability><billable>false</billable><category display_value="Hardware">d258b953c611227a0146101fb1be7c31</category><checked_out>false</checked_out><cost>0</cost><custom_cart/><delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow/><fulfillment_automation_level>unspecified</fulfillment_automation_level><group/><hide_sp>false</hide_sp><icon/><ignore_price>true</ignore_price><image/><location/><make_item_non_conversational>false</make_item_non_conversational><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>Laptop Request</name><no_attachment_v2>false</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>false</no_cart_v2><no_delivery_time_v2>false</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>false</no_quantity_v2><no_save_as_draft>false</no_save_as_draft><no_search>false</no_search><no_wishlist_v2>false</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><picture/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=f5b6df7ac3f47210e8461a2ed4013155&amp;sysparm_preview=true", "summary");</preview><price>0</price><published_ref/><recurring_frequency/><recurring_price>0</recurring_price><request_method/><roles/><sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs><sc_ic_item_staging/><sc_ic_version/><sc_template/><short_description/><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state>published</state><sys_class_name>sc_cat_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-29 04:29:51</sys_created_on><sys_id>f5b6df7ac3f47210e8461a2ed4013155</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Laptop Request</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_cat_item_f5b6df7ac3f47210e8461a2ed4013155</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-29 04:38:47</sys_updated_on><taxonomy_topic display_value="Technology services">06d3df67c3053010069aec4b7d40dd70</taxonomy_topic><template/><template_manager_roles/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><version>2</version><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item><sys_translated_text action="delete_multiple" query="documentkey=f5b6df7ac3f47210e8461a2ed4013155"/><fx_price action="delete_multiple" query="id=f5b6df7ac3f47210e8461a2ed4013155"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="INR">INR</currency><field>price</field><id>f5b6df7ac3f47210e8461a2ed4013155</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-29 04:29:51</sys_created_on><sys_id>05c653bac3f47210e8461a2ed401316a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-29 04:29:51</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>recurring_price</field><id>f5b6df7ac3f47210e8461a2ed4013155</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-29 04:29:51</sys_created_on><sys_id>01c653bac3f47210e8461a2ed401316d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-29 04:29:51</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price></record_update>]]></payload>
+<payload_hash>630997849</payload_hash>
+<remote_update_set display_value="CB_Laptop Request_2025-10-29 04:38:46">7e5aa332c3b87210e8461a2ed40131d2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-10-29 05:55:26</sys_created_on>
+<sys_id>725a6b32c3b87210e8461a2ed40131f8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a2e42e64f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-10-29 05:55:26</sys_updated_on>
+<table/>
+<target_name>Laptop Request</target_name>
+<type>Catalog Item</type>
+<update_domain>global</update_domain>
+<update_guid>7bc8d7bed2f4721020751d24917a5e8d</update_guid>
+<update_guid_history>7bc8d7bed2f4721020751d24917a5e8d:630997849,3bc8d7befaf47210c90fb76e179b5065:1721203863,bbc8d7be4ef4721088903a423fd00247:-822301800,15c653ba27f47210c65b80f1dbac3897:-835249007,45c653ba11f472102cee0d7a4982818f:1047368633</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_catalog_3cc817bec3f47210e8461a2ed4013179</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Laptop Request">f5b6df7ac3f47210e8461a2ed4013155</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-10-29 04:38:35</sys_created_on><sys_id>3cc817bec3f47210e8461a2ed4013179</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Laptop Request</sys_name><sys_package/><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sc_cat_item_catalog_3cc817bec3f47210e8461a2ed4013179</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-29 04:38:35</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+<payload_hash>2140269384</payload_hash>
+<remote_update_set display_value="CB_Laptop Request_2025-10-29 04:38:46">7e5aa332c3b87210e8461a2ed40131d2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-10-29 05:55:26</sys_created_on>
+<sys_id>f65a6b32c3b87210e8461a2ed40131f7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19a2e42e3d60000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-10-29 05:55:26</sys_updated_on>
+<table/>
+<target_name>Service Catalog.Laptop Request</target_name>
+<type>Catalog Items Catalog</type>
+<update_domain>global</update_domain>
+<update_guid>f7c8d7be69f472109d83187f6b99ba2e</update_guid>
+<update_guid_history>f7c8d7be69f472109d83187f6b99ba2e:2140269384,bbc8d7bed8f472101f837373b8d9772a:2140269384,73c8d7be06f472106188788a941d9f22:-241846500</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
